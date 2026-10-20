@@ -1,6 +1,6 @@
 ## Hi, I'm Allison!
 
-🐏 Computer Science student at Colorado State University, graduation 2028 </br>
+🐏 Computer Science student at Colorado State University, graduation May 2028 </br>
 💡Currently learning software development, discrete structures, and data structures </br>
 👾Interested in software and game development </br>
 
